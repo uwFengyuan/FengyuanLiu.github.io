@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Fengyuan Liu"
   avatar           : "Fengyuan.png"
-  bio              : "Research scentist at the University of Oxford, AI in Finance and Biology, NLP"
+  bio              : "Researcher at the University of Oxford: AI in Finance and Biology, NLP"
   location         : "Oxford, England"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ieXkRnkAAAAJ&hl=en"
   email            : "fengyuan.liu@cs.ox.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"

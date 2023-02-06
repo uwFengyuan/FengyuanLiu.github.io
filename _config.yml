@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Master Candidate"
+locale                   : "en-UK"
+title                    : "Fengyuan Liu"
 title_separator          : "-"
 name                     : &name "Fengyuan Liu"
 description              : &description "A master student at the University of Oxford"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ieXkRnkAAAAJ&hl=en"
-  email            :
+  email            : "fengyuan.liu@cs.ox.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

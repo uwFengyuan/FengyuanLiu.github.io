@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Activities"
-    url: /Activities/       
+  #- title: "Activities"
+  #  url: /Activities/       
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  #  url: /portfolio/

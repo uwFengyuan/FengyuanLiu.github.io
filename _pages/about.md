@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Fengyuan Liu's home on the web!
+This is Fengyuan Liu's home on the web! [\[CV\]](https://github.com/uwFengyuan/uwFengyuan.github.io/blob/master/files/CV_Liu%20Fengyuan.pdf).

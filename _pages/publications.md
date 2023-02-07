@@ -16,4 +16,4 @@ International Conference on Machine Learning (ICML under review), 2023.
 # Ongoing
 
 - __Fengyuan Liu__\*, Junyi Wang\*, Yuyan Liu                 
-**Show，Describle，and Conclude: Prompt-based Attention for Describing Products**   
+**Show, Describle, and Conclude: Prompt-based Attention for Describing Products**   

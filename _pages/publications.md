@@ -13,7 +13,11 @@ author_profile: true
 International Conference on Machine Learning (ICML under review), 2023.      
 [\[Paper\]](https://arxiv.org/abs/2211.12507) / [\[Website\]](https://github.com/IIIS-Li-Group/OpenFE)
 
+- Junyi Wang\*, __Fengyuan Liu__\*, Yuyan Liu*, Fenglin Liu, Shen Ge, Xian Wu, Yuexian Zou                 
+**Prompt-based Calibration Learning for Few-shot Novel Product Description in E-commerce**   
+European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD under review), 2023.
+
 # Ongoing
 
-- __Fengyuan Liu__\*, Junyi Wang\*, Yuyan Liu                 
-**Show, Describle, and Conclude: Prompt-based Attention for Describing Products**   
+- Junyi Wang\*, __Fengyuan Liu__\*              
+**Show, Describe and Summarize: Multi-stage Adaptive Learning with Self-calibration for Product Summary**   

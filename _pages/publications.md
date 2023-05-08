@@ -17,7 +17,7 @@ International Conference on Machine Learning (ICML), 2023.
 **Prompt-based Calibration Learning for Few-shot Novel Product Description in E-commerce**   
 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD under review), 2023.
 
-- Fenglin Liu, Bang Yang, Tingting Zhu, Fengyuan Liu, Lei Lu, Omid Rohanian, Xian Wu, Yefeng Zheng, Xu Sun, David A. Clifton
+- Fenglin Liu, Bang Yang, Tingting Zhu, __Fengyuan Liu__, Lei Lu, Omid Rohanian, Xian Wu, Yefeng Zheng, Xu Sun, David A. Clifton
 **MedMultiCLIP: Few-shot Multilingual Medical Report Generation**
 Conference on Neural Information Processing Systems (NeurIPS under review), 2023.
 

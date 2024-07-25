@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+---
 
 ## 2024
 
@@ -26,6 +27,4 @@ Nature Biomedical Engineering (Nat. Biomed. Eng), 2024 (under review)
 **OpenFE: Automated Feature Generation beyond Expert-level Performance**   
 International Conference on Machine Learning (ICML), 2023.     
 [\[Paper\]](https://arxiv.org/abs/2211.12507) / [\[Code\]](https://github.com/IIIS-Li-Group/OpenFE) 
-
----
 

@@ -22,12 +22,12 @@ Education
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
+Service
 ======
-* Oxford Fintech & Legaltech Society, Research Associate, 01/2023-04/2023
+<!-- * Oxford Fintech & Legaltech Society, Research Associate, 01/2023-04/2023
 * SEA Academy, Honor Scholar of Mathematical Studies & Computer Science department, 09/2022-03/2023
 * Frameworld Media Organization, Post-production Officer, 05/2018-10/2019
-* Society of Women Engineers, Member, 04/2018-10/2019
+* Society of Women Engineers, Member, 04/2018-10/2019 -->
 * Conference Reviewer: NeurIPS 2023
 
 This is my [\[CV\]](https://uwFengyuan.github.io/files/CV_Liu Fengyuan.pdf). 

@@ -16,11 +16,10 @@ Education
 * M.S. in Oxford, University of Oxford, 2023
 * Ph.D in Unknown
 
-<!-- Publications
+Related Coursework:
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+Machine Learning, Deep Learning, Reinforcement Learning, Deep Learning in Healthcare, Graph Representation Learning, Topics in Computational Biology, Quantum Processes and Computation,
+Stochastic Process, Cryptography
   
 Service
 ======
